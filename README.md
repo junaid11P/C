@@ -1,8 +1,8 @@
 # C
 This is my 4th semester Advance data structure with c language
 <br>
-1.<a href="main.c">Library Management System</a> <--- Click Here to view the code
-<b>Constraints:</b><br>
+1.<a href="main.c">Library Management System</a> <--- Click Here to view the code<br>
+<b><u>Constraints:<u></b><br>
 Implement the system to handle borrowing and returning books, ensuring that rules, such as a maximum of 5 books per user, are enforced. <br>
 
 <b>Implement the following operations:</b><br> 
