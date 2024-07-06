@@ -4,5 +4,5 @@ This is my 4th semester Advance data structure with c language
 1.<a href="main.c">Library Management System</a> <--- Click Here to view the code
 
 <br>
-<img src="1.JPG" width="900" height="700"><br>
-<img src="2.JPG" width="900" height="700"><br>
+<img src="1.JPG" width="700" height="700"><br>
+<img src="2.JPG" width="700" height="700"><br>
